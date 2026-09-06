@@ -1,0 +1,22 @@
+{
+    "version":  "0.9.0-test",
+    "min_version":  "0.9.0-test",
+    "host_version":  "0.9.0-test",
+    "logic":  {
+                  "2023":  {
+                               "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.9.0-test/logic-2023-0.9.0-test.zip",
+                               "sha256":  "c069dbb3cc00d37f8d7aaf2c35073578c6b90f408bf781b839a8cb33bf7993e5"
+                           },
+                  "2025":  {
+                               "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.9.0-test/logic-2025-0.9.0-test.zip",
+                               "sha256":  "467e02c90beb53010c83e782bdf592220b7e20c70a7d3c1a37a0f188dfd6ac11"
+                           }
+              },
+    "installer":  {
+                      "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.9.0-test/RevitCmd-Setup-0.9.0-test.exe",
+                      "sha256":  "bd40070849ee650eb5bb3ee5632a412b600f65782fd85895c21aaf7c5b70bec3"
+                  },
+    "paid_mode":  false,
+    "notice":  "",
+    "notice_id":  ""
+}
