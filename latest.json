@@ -1,20 +1,20 @@
 {
-    "version":  "0.9.0-test",
-    "min_version":  "0.9.0-test",
-    "host_version":  "0.9.0-test",
+    "version":  "0.9.6-test",
+    "min_version":  "0.9.6-test",
+    "host_version":  "0.9.6-test",
     "logic":  {
                   "2023":  {
-                               "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.9.0-test/logic-2023-0.9.0-test.zip",
-                               "sha256":  "c069dbb3cc00d37f8d7aaf2c35073578c6b90f408bf781b839a8cb33bf7993e5"
+                               "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.9.6-test/logic-2023-0.9.6-test.zip",
+                               "sha256":  "2c3ecb584d33a659f82ea547aca2af6d787796e752b12adce18a1c37cf564663"
                            },
                   "2025":  {
-                               "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.9.0-test/logic-2025-0.9.0-test.zip",
-                               "sha256":  "467e02c90beb53010c83e782bdf592220b7e20c70a7d3c1a37a0f188dfd6ac11"
+                               "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.9.6-test/logic-2025-0.9.6-test.zip",
+                               "sha256":  "939485b5bca74d4c64884ee954a67b9a1d09efda43e779cf860f1a6d76e6cb6c"
                            }
               },
     "installer":  {
-                      "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.9.0-test/RevitCmd-Setup-0.9.0-test.exe",
-                      "sha256":  "bd40070849ee650eb5bb3ee5632a412b600f65782fd85895c21aaf7c5b70bec3"
+                      "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.9.6-test/QuickTools-Setup-0.9.6-test.exe",
+                      "sha256":  "126f20b733178b2a96bcc70e834bd523fea62f42ddd7d2e0b73c04a6e78e3d9a"
                   },
     "paid_mode":  false,
     "notice":  "",
