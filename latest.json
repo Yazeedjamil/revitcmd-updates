@@ -1,11 +1,87 @@
 {
-  "version": "1.3.8",
-  "min_version": "1.1.6",
-  "notice_id": "1.3.8",
-  "notice": "1.3.8 makes the HAP push much faster on big projects: updating a space now jumps straight to it by name instead of scrolling the list row by row.",
-  "url": "https://github.com/Yazeedjamil/ssi-updates/releases/latest/download/SSISetup.exe",
-  "notes": "1.3.8 - faster HAP push, especially for large projects. When updating an existing space, the app now jumps STRAIGHT to it by name, instead of stepping down the Spaces list one row at a time (which got slow for spaces far down a long list - e.g. space #200 took ~20s just to reach). Reaching any space is now near-instant. Plus a small safe per-space speed trim. Just click Update now.",
-  "paid_mode": false,
-  "purchase_url": "",
-  "trial_message": ""
+    "version":  "0.24.0-test",
+    "min_version":  "0.24.0-test",
+    "host_version":  "0.24.0-test",
+    "logic":  {
+                  "2023":  {
+                               "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/logic-2023-0.24.0-test.zip",
+                               "sha256":  "f15ae5eb80c508d8904e43efd050c44623cc647e2ad573c7e5e37e84e8d0c44c"
+                           },
+                  "2025":  {
+                               "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/logic-2025-0.24.0-test.zip",
+                               "sha256":  "3461e35c01ba10420c6a23fb2079c24b52637966b8f8419a7f2b4260ceac371f"
+                           }
+              },
+    "installer":  {
+                      "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/QuickTools-Setup-0.24.0-test.exe",
+                      "sha256":  "46b0e8dbdbbc9055f035ed4736a8223582a087da82187551c8f563234fb73862"
+                  },
+    "paid_mode":  false,
+    "notice":  "",
+    "notice_id":  "",
+    "modules":  {
+                    "spacechecker":  {
+                                         "2023":  {
+                                                      "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/module-spacechecker-2023-0.24.0-test.zip",
+                                                      "sha256":  "274c9a145858f4d3f4487f94b48d89f61169847d3793288e6274be0df31edad1",
+                                                      "version":  "0.24.0-test"
+                                                  }
+                                     },
+                    "parametermapper":  {
+                                            "2023":  {
+                                                         "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/module-parametermapper-2023-0.24.0-test.zip",
+                                                         "sha256":  "d89f2093fb6ba6d313c888f48330f4e5dc9c9bf350b68661be32185ccc98f67b",
+                                                         "version":  "0.24.0-test"
+                                                     }
+                                        },
+                    "classifier":  {
+                                       "2023":  {
+                                                    "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/module-classifier-2023-0.24.0-test.zip",
+                                                    "sha256":  "f7248ddc8000e111b2aae881c8281cb7a0af3ed2d965b8c3a851ce914f9f8ba6",
+                                                    "version":  "0.24.0-test"
+                                                }
+                                   },
+                    "paramfiller":  {
+                                        "2023":  {
+                                                     "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/module-paramfiller-2023-0.24.0-test.zip",
+                                                     "sha256":  "e0397d7ca323fa2a63ee8360b1af6575ab935ee38e5d689cedf11ac13b0b208e",
+                                                     "version":  "0.24.0-test"
+                                                 }
+                                    },
+                    "groupreconnect":  {
+                                           "2023":  {
+                                                        "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/module-groupreconnect-2023-0.24.0-test.zip",
+                                                        "sha256":  "a7e121e11f287c5218e47ee7cbc7d563e5c9ed713eb870546b1c5521b2602d34",
+                                                        "version":  "0.24.0-test"
+                                                    }
+                                       },
+                    "floorsync":  {
+                                      "2023":  {
+                                                   "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/module-floorsync-2023-0.24.0-test.zip",
+                                                   "sha256":  "0ae36e18f9a56056438f869d4f37b862a448a1db5b44f50c2e9af49a0ea1404c",
+                                                   "version":  "0.24.0-test"
+                                               }
+                                  },
+                    "accissues":  {
+                                      "2023":  {
+                                                   "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/module-accissues-2023-0.24.0-test.zip",
+                                                   "sha256":  "8899ab863c0060d4022b5ced2edb246f9eeabbcf9e1d90fa817f9ea29978d628",
+                                                   "version":  "0.24.0-test"
+                                               }
+                                  },
+                    "tagannotate":  {
+                                        "2023":  {
+                                                     "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/module-tagannotate-2023-0.24.0-test.zip",
+                                                     "sha256":  "cc9183371bca7fc491bce4a32b5a99413fd75c6be101623e3d707497c79aa6d1",
+                                                     "version":  "0.24.0-test"
+                                                 }
+                                    },
+                    "levelsync":  {
+                                      "2023":  {
+                                                   "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/module-levelsync-2023-0.24.0-test.zip",
+                                                   "sha256":  "0406524026479b786d97803f1342acdef84eb0b467f7ea59488a9f832d5a8fc2",
+                                                   "version":  "0.24.0-test"
+                                               }
+                                  }
+                }
 }
