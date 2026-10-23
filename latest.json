@@ -1,20 +1,28 @@
 {
-    "version":  "0.24.0-test",
-    "min_version":  "0.24.0-test",
-    "host_version":  "0.24.0-test",
+    "version":  "0.25.0-test",
+    "min_version":  "0.25.0-test",
+    "host_version":  "0.25.0-test",
     "logic":  {
                   "2023":  {
-                               "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/logic-2023-0.24.0-test.zip",
-                               "sha256":  "f15ae5eb80c508d8904e43efd050c44623cc647e2ad573c7e5e37e84e8d0c44c"
+                               "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/logic-2023-0.25.0-test.zip",
+                               "sha256":  "110061eb9eacb0ad1f408dcfcce95f0c264c2737d38a8678c0c984a74a47ecdd"
+                           },
+                  "2024":  {
+                               "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/logic-2024-0.25.0-test.zip",
+                               "sha256":  "d6d2a95013631f6cfcd4a7a6f8f9bc2b1c1a81a7a38394484d274e2d87218d2a"
                            },
                   "2025":  {
-                               "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/logic-2025-0.24.0-test.zip",
-                               "sha256":  "3461e35c01ba10420c6a23fb2079c24b52637966b8f8419a7f2b4260ceac371f"
+                               "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/logic-2025-0.25.0-test.zip",
+                               "sha256":  "5613b129546db8f3cf79b73912a4abb2d52e180e8b4f568f883d47cf1bab8af7"
+                           },
+                  "2026":  {
+                               "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/logic-2026-0.25.0-test.zip",
+                               "sha256":  "4767f4f5be97a0c4dacb8372b56eff4d51f047428de62719472e34d53818e3a3"
                            }
               },
     "installer":  {
-                      "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/QuickTools-Setup-0.24.0-test.exe",
-                      "sha256":  "46b0e8dbdbbc9055f035ed4736a8223582a087da82187551c8f563234fb73862"
+                      "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/QuickTools-Setup-0.25.0-test.exe",
+                      "sha256":  "75c33f1bca88c4240e9bbd25271e8ddf2fcd7e8b08e6b0c136e032256fcff3f6"
                   },
     "paid_mode":  false,
     "notice":  "",
@@ -22,65 +30,185 @@
     "modules":  {
                     "spacechecker":  {
                                          "2023":  {
-                                                      "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/module-spacechecker-2023-0.24.0-test.zip",
-                                                      "sha256":  "274c9a145858f4d3f4487f94b48d89f61169847d3793288e6274be0df31edad1",
-                                                      "version":  "0.24.0-test"
+                                                      "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-spacechecker-2023-0.25.0-test.zip",
+                                                      "sha256":  "5cb742ccfc25f798916a8b428ad5b3f41e30ee5234d88cafa0890973a1d75cf2",
+                                                      "version":  "0.25.0-test"
                                                   }
                                      },
                     "parametermapper":  {
                                             "2023":  {
-                                                         "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/module-parametermapper-2023-0.24.0-test.zip",
-                                                         "sha256":  "d89f2093fb6ba6d313c888f48330f4e5dc9c9bf350b68661be32185ccc98f67b",
-                                                         "version":  "0.24.0-test"
+                                                         "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-parametermapper-2023-0.25.0-test.zip",
+                                                         "sha256":  "da75e3a658c6fa0d944bc98d8ccac79b882ceb2c4ddcfda97849966e3e2b1716",
+                                                         "version":  "0.25.0-test"
+                                                     },
+                                            "2024":  {
+                                                         "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-parametermapper-2024-0.25.0-test.zip",
+                                                         "sha256":  "f0b471a8e12e531d35bbb7fa7b9531188392e8977d91a15155ecba8ec688b20c",
+                                                         "version":  "0.25.0-test"
+                                                     },
+                                            "2025":  {
+                                                         "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-parametermapper-2025-0.25.0-test.zip",
+                                                         "sha256":  "349057199cbeabf1cd970578a08d4a0b83f650d33bb4edc0dd3c0d384289352b",
+                                                         "version":  "0.25.0-test"
+                                                     },
+                                            "2026":  {
+                                                         "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-parametermapper-2026-0.25.0-test.zip",
+                                                         "sha256":  "97bf66e7c2f24726a9c9a5a7fd26311515cf4000a8f5c5260e72da939686dab5",
+                                                         "version":  "0.25.0-test"
                                                      }
                                         },
                     "classifier":  {
                                        "2023":  {
-                                                    "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/module-classifier-2023-0.24.0-test.zip",
-                                                    "sha256":  "f7248ddc8000e111b2aae881c8281cb7a0af3ed2d965b8c3a851ce914f9f8ba6",
-                                                    "version":  "0.24.0-test"
+                                                    "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-classifier-2023-0.25.0-test.zip",
+                                                    "sha256":  "610ac6f40518a5319345ad0a0b2dbab1d74207dcb60a59beb43f4b889d848494",
+                                                    "version":  "0.25.0-test"
+                                                },
+                                       "2024":  {
+                                                    "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-classifier-2024-0.25.0-test.zip",
+                                                    "sha256":  "5351dca50963fbbc0c22c0412ecd0d1481dc2c28ac9dbe44b814255b4a3f6242",
+                                                    "version":  "0.25.0-test"
+                                                },
+                                       "2025":  {
+                                                    "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-classifier-2025-0.25.0-test.zip",
+                                                    "sha256":  "344dbcae7e48e76b9518d641fb24cbd987ae3494c61648391cdb596bd8bbda12",
+                                                    "version":  "0.25.0-test"
+                                                },
+                                       "2026":  {
+                                                    "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-classifier-2026-0.25.0-test.zip",
+                                                    "sha256":  "51a2ac8d07b05b6eae192c22cccb1884c7007c8563229dc55c0435025b73fc63",
+                                                    "version":  "0.25.0-test"
                                                 }
                                    },
                     "paramfiller":  {
                                         "2023":  {
-                                                     "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/module-paramfiller-2023-0.24.0-test.zip",
-                                                     "sha256":  "e0397d7ca323fa2a63ee8360b1af6575ab935ee38e5d689cedf11ac13b0b208e",
-                                                     "version":  "0.24.0-test"
+                                                     "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-paramfiller-2023-0.25.0-test.zip",
+                                                     "sha256":  "098a622fb05c3e9862fcd22ebf61f79f6ee503a7acd24bc50124dcba758cba6d",
+                                                     "version":  "0.25.0-test"
+                                                 },
+                                        "2024":  {
+                                                     "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-paramfiller-2024-0.25.0-test.zip",
+                                                     "sha256":  "f15fd9cbb8b143df5ac8116fbfc4062f54c97ada991c9ef606982050be89a77f",
+                                                     "version":  "0.25.0-test"
+                                                 },
+                                        "2025":  {
+                                                     "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-paramfiller-2025-0.25.0-test.zip",
+                                                     "sha256":  "cf403672ccb92f0965d08d1fd98907eca97428d2f4518772084fb7e010a03759",
+                                                     "version":  "0.25.0-test"
+                                                 },
+                                        "2026":  {
+                                                     "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-paramfiller-2026-0.25.0-test.zip",
+                                                     "sha256":  "76a11adf5d4b1a2804a7274105633c6843956185a1e01649f898b910332e5a51",
+                                                     "version":  "0.25.0-test"
                                                  }
                                     },
                     "groupreconnect":  {
                                            "2023":  {
-                                                        "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/module-groupreconnect-2023-0.24.0-test.zip",
-                                                        "sha256":  "a7e121e11f287c5218e47ee7cbc7d563e5c9ed713eb870546b1c5521b2602d34",
-                                                        "version":  "0.24.0-test"
+                                                        "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-groupreconnect-2023-0.25.0-test.zip",
+                                                        "sha256":  "6713c36ae2a40f85d85c62eb02e67b7c397f080d7e5114641f9c9f72f6188c87",
+                                                        "version":  "0.25.0-test"
+                                                    },
+                                           "2024":  {
+                                                        "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-groupreconnect-2024-0.25.0-test.zip",
+                                                        "sha256":  "18eadcc0e5ea0ef460576580615feddd3618fa2ab635ef690d958309d4494366",
+                                                        "version":  "0.25.0-test"
+                                                    },
+                                           "2025":  {
+                                                        "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-groupreconnect-2025-0.25.0-test.zip",
+                                                        "sha256":  "ca2c7cbc731f9b579a8279df10de7ba0443518ac50153be2bdb04aee74167054",
+                                                        "version":  "0.25.0-test"
+                                                    },
+                                           "2026":  {
+                                                        "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-groupreconnect-2026-0.25.0-test.zip",
+                                                        "sha256":  "c8dedd641851349db69a573123acff148acd81f5a847777293b834d9a6337464",
+                                                        "version":  "0.25.0-test"
                                                     }
                                        },
                     "floorsync":  {
                                       "2023":  {
-                                                   "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/module-floorsync-2023-0.24.0-test.zip",
-                                                   "sha256":  "0ae36e18f9a56056438f869d4f37b862a448a1db5b44f50c2e9af49a0ea1404c",
-                                                   "version":  "0.24.0-test"
+                                                   "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-floorsync-2023-0.25.0-test.zip",
+                                                   "sha256":  "187e59d8aff42c70a0cf07c52a4810b29506d0ff56992fefa22757e955212724",
+                                                   "version":  "0.25.0-test"
+                                               },
+                                      "2024":  {
+                                                   "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-floorsync-2024-0.25.0-test.zip",
+                                                   "sha256":  "7a92a63484b81700e09dda4af1a01aecd6cefd353342f4635db6a3e5227fb3f1",
+                                                   "version":  "0.25.0-test"
+                                               },
+                                      "2025":  {
+                                                   "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-floorsync-2025-0.25.0-test.zip",
+                                                   "sha256":  "8c6f0ede347b22f36f20e1385abae36aee4f5c9070337a8e7217172aefc32a48",
+                                                   "version":  "0.25.0-test"
+                                               },
+                                      "2026":  {
+                                                   "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-floorsync-2026-0.25.0-test.zip",
+                                                   "sha256":  "d454b20190579e2e09c2873cecb4fe66384528d2ea9181d228a656c56c0cdcbb",
+                                                   "version":  "0.25.0-test"
                                                }
                                   },
                     "accissues":  {
                                       "2023":  {
-                                                   "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/module-accissues-2023-0.24.0-test.zip",
-                                                   "sha256":  "8899ab863c0060d4022b5ced2edb246f9eeabbcf9e1d90fa817f9ea29978d628",
-                                                   "version":  "0.24.0-test"
+                                                   "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-accissues-2023-0.25.0-test.zip",
+                                                   "sha256":  "50e0c971ea133fed1ab4c6faaf3ef5dc690ab77b7e2090912edc101d8cdd12ae",
+                                                   "version":  "0.25.0-test"
+                                               },
+                                      "2024":  {
+                                                   "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-accissues-2024-0.25.0-test.zip",
+                                                   "sha256":  "b2519a359b4ca92241fa173b039b50cc38e03e71b207640dc4df11420fc1fea6",
+                                                   "version":  "0.25.0-test"
+                                               },
+                                      "2025":  {
+                                                   "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-accissues-2025-0.25.0-test.zip",
+                                                   "sha256":  "f720fef46c4127db46694e5c862ad974986b5b1a034158117265f2dc7ff8b242",
+                                                   "version":  "0.25.0-test"
+                                               },
+                                      "2026":  {
+                                                   "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-accissues-2026-0.25.0-test.zip",
+                                                   "sha256":  "53f86de43431a4e37e6d68c5637201a392b1d02b8a43a61afe678f7e9ce49cd2",
+                                                   "version":  "0.25.0-test"
                                                }
                                   },
                     "tagannotate":  {
                                         "2023":  {
-                                                     "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/module-tagannotate-2023-0.24.0-test.zip",
-                                                     "sha256":  "cc9183371bca7fc491bce4a32b5a99413fd75c6be101623e3d707497c79aa6d1",
-                                                     "version":  "0.24.0-test"
+                                                     "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-tagannotate-2023-0.25.0-test.zip",
+                                                     "sha256":  "20e6905a2b677ecd4159825ba8e12034b053e08ba2f316df6ca2c3bf41847eb1",
+                                                     "version":  "0.25.0-test"
+                                                 },
+                                        "2024":  {
+                                                     "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-tagannotate-2024-0.25.0-test.zip",
+                                                     "sha256":  "bc9e10a2b8fb6b7fd12a3662442e0e74a87eede4c34370a5ff5c91d9c983c96e",
+                                                     "version":  "0.25.0-test"
+                                                 },
+                                        "2025":  {
+                                                     "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-tagannotate-2025-0.25.0-test.zip",
+                                                     "sha256":  "dd22a63da53d6b566f5600b4354bcb73a949e7176f4ebb7fa93a715e624bc190",
+                                                     "version":  "0.25.0-test"
+                                                 },
+                                        "2026":  {
+                                                     "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-tagannotate-2026-0.25.0-test.zip",
+                                                     "sha256":  "4714a95e2b647f63cd51bc63be56f76aee01222fc147fb33468e5fbe024f5bc6",
+                                                     "version":  "0.25.0-test"
                                                  }
                                     },
                     "levelsync":  {
                                       "2023":  {
-                                                   "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.24.0-test/module-levelsync-2023-0.24.0-test.zip",
-                                                   "sha256":  "0406524026479b786d97803f1342acdef84eb0b467f7ea59488a9f832d5a8fc2",
-                                                   "version":  "0.24.0-test"
+                                                   "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-levelsync-2023-0.25.0-test.zip",
+                                                   "sha256":  "51c973bbc8e6a0d47484a4853968b6a9d08861550fadbdaff54c21d85c2a402b",
+                                                   "version":  "0.25.0-test"
+                                               },
+                                      "2024":  {
+                                                   "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-levelsync-2024-0.25.0-test.zip",
+                                                   "sha256":  "a77a62f6199a7db87f323bc7ec00701c23857082ee3543de952d7fa5c649e3ed",
+                                                   "version":  "0.25.0-test"
+                                               },
+                                      "2025":  {
+                                                   "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-levelsync-2025-0.25.0-test.zip",
+                                                   "sha256":  "c73403b056f599679b5034e9aac1d531d504a51af04a887a12e8895bff30ecca",
+                                                   "version":  "0.25.0-test"
+                                               },
+                                      "2026":  {
+                                                   "url":  "https://github.com/Yazeedjamil/revitcmd-updates/releases/download/v0.25.0-test/module-levelsync-2026-0.25.0-test.zip",
+                                                   "sha256":  "9286714f559e4099badb3fb656b9ac86c67126d1568136c14f2d7c4479d42ffb",
+                                                   "version":  "0.25.0-test"
                                                }
                                   }
                 }
